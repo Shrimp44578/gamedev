@@ -1,0 +1,5 @@
+﻿  basicgame.cpp
+C:\Users\smchi\projects\gamedev\terminalgame.cpp\terminalgame.cpp\basicgame.cpp(73,28): warning C4552: '-': result of expression not used
+C:\Users\smchi\projects\gamedev\terminalgame.cpp\terminalgame.cpp\basicgame.cpp(123,9): warning C4101: 'level': unreferenced local variable
+C:\Users\smchi\projects\gamedev\terminalgame.cpp\terminalgame.cpp\basicgame.cpp(122,9): warning C4101: 'experience': unreferenced local variable
+  terminalgame.cpp.vcxproj -> C:\Users\smchi\projects\gamedev\terminalgame.cpp\terminalgame.cpp\x64\Debug\terminalgame.cpp.exe

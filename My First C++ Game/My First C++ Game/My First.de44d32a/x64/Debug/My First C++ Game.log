@@ -1,0 +1,3 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(263,5): warning MSB8077: Some files are set to compile as C++/CLI, but 'Enable CLR Support for Individual Files' property is not defined. See 'Advanced Property Page' documentation for more details.
+cl : command line  warning D9025: overriding '/JMC' with '/clr'
+cl : command line  error D8016: '/ZI' and '/clr' command-line options are incompatible

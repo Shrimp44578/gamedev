@@ -1,0 +1,6 @@
+﻿  win32_platform.cpp
+C:\Users\smchi\projects\gamedev\My First C++ Game\My First C++ Game\renderer.cpp(41,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\smchi\projects\gamedev\My First C++ Game\My First C++ Game\renderer.cpp(42,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\smchi\projects\gamedev\My First C++ Game\My First C++ Game\renderer.cpp(43,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\smchi\projects\gamedev\My First C++ Game\My First C++ Game\renderer.cpp(44,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  My First C++ Game.vcxproj -> C:\Users\smchi\projects\gamedev\My First C++ Game\My First C++ Game\Debug\My First C++ Game.exe
